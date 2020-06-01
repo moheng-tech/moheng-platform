@@ -1,0 +1,9 @@
+{
+"RpcServiceCfg": "http://127.0.0.1:8545/rpc",
+"DataDir": "./ssndata",
+"LogPath": "./_logs",
+"VssBaseAddr": "",
+"ChainId": 1510,
+"LogLevel": 4
+}
+
